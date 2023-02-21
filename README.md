@@ -45,16 +45,16 @@ Tenho 26 anos, moro em Brasília/DF, sou iniciante no universo da programação,
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do Scuba Team da <a href="https://www.alura.com.br/">Alura</a>;</p>
- <p align="left">📚 Tenho estudado Java e iniciei meus estudos para desenvolver apps para Android;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="left">🤿 Faço faculdade de Análise e desenvolvimento de sistemas com formação para <a href="https://www.alura.com.br/">01/2024</a>;</p>
+ <p align="left">📚 Tenho estudado Java e iniciei meus estudos nessa área devido o incentivo do meu marido e buscar sair da zona de conforto;</p>
+ <p align="left">📷 Decidi criar meu GitHub com intuito de compartilhar minhas experiências com alguns cursos que realizei, para acompanhar a minha evolução em novas tecnologias e ferramentas;</p> 
+ <p align="left">☕🎮 Só acordo com café, adoro passar tempo em família (assistindo filmes e séries) e as vezes cozinhar algumas receitas para eles.</p>
+ <p align="left"> 👨‍👨‍👦‍👦 Sou mãe do Luiz Miguel, Benjamin e tenho uma cachorra chamada Amora 🐶 </p>
 </div>
 
 
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/luannadias/) Espero compartilhar muitas informações e aprender com todos os outros devs.
 </br>
