@@ -23,8 +23,8 @@
 
 ## Olá Devs! 👋
 
-Tenho 26 anos, moro em Brasília/DF, sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu vejo o quanto estou amando esse novo mundo cheio de desafios e saberes ❤
-</br>Atualmente sou formada em Engenharia Civil, mas em busca de oportunidades para migrar para área de programação.
+Tenho 28 anos, moro em Brasília/DF, sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mas eu vejo o quanto estou amando esse novo mundo cheio de desafios e saberes ❤
+</br>Atualmente finalizei minha graduação na área de desenvolvimento e análise de sistemas.
 
 <p align="center">
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="350">
@@ -45,11 +45,10 @@ Tenho 26 anos, moro em Brasília/DF, sou iniciante no universo da programação,
 </br>
 </br>
 <div display="inline-block">
- <p align="left">❤️‍🔥 Atualmente cursando Análise e desenvolvimento de sistemas com formação para <a href="https://www.alura.com.br/">01/2024</a>;</p>
+ <p align="left">❤️‍🔥 Formada em análise e desenvolvimento de sistemas! <a href="https://www.alura.com.br/">
  <p align="left">📚 Tenho estudado Java e iniciei meus estudos nessa área devido o incentivo do meu marido e buscar sair da zona de conforto;</p>
- <p align="left"> 🖱️ Decidi criar meu GitHub com intuito de compartilhar minhas experiências com alguns cursos que realizei, para acompanhar a minha evolução em novas tecnologias e ferramentas;</p> 
- <p align="left">☕🖥️ Só acordo com café, adoro passar tempo em família (assistindo filmes e séries) e as vezes cozinhar algumas receitas para eles.</p>
- <p align="left"> 👨‍👨‍👦‍👦 Sou mãe do Luiz Miguel, Benjamin e tenho uma cachorra chamada Amora 🐶 </p>
+ <p align="left"> 🖱️ Decidi criar meu GitHub com intuito de compartilhar minhas experiências com alguns cursos que realizei, desenvolvimento novos Soft skills e Hard skills com novas tecnologias e ferramentas;</p> 
+ <p align="left"> 👨‍👨‍👦‍👦 Sou mãe do Luiz Miguel, Benjamin, Pedro Lucas e tenho uma cachorra chamada Amora 🐶 </p>
 </div>
 
 
